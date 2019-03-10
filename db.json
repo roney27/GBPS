@@ -92,7 +92,7 @@
 "parentId":	7	,
 "isActive":	1	}],
 "user":[],
-"SINGERS" = [
+"SINGERS": [
 	{
 		Artist: "Rony Yepes",
 		HasGrammyAward: false,
